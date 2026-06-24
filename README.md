@@ -8,7 +8,7 @@ Email Me 👉 ✉️ **patiladitya212002@gmail.com** For Collaboration/Project o
 - 👯 **I’m looking to collaborate on:** Data Analytics and Machine Learning Projects
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Python, SQL, Power BI, Excel, Data Analytics, and Machine Learning
-- 📫 **How to reach me:** Enter your email here
+- 📫 **How to reach me:** patiladitya212002@gmail.com
 - 😄 **Pronouns:** Aditya Patil
 - ⚡ **Fun fact:** I enjoy turning raw data into meaningful insights and solving real-world problems with technology.
 ## 🌐 Socials:
